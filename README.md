@@ -11,3 +11,4 @@ Where is anything
 1. To create combined data plots for each day - DalMaso-dailyplot
 2. update NAIS and comp data - Publish-naisdataupdate
 3. histogram with monthly Dal maso ionsbeha-allseason
+4. GR from json file - iosnbehaviour - summer_grs
