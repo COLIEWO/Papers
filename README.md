@@ -12,3 +12,5 @@ Where is anything
 2. update NAIS and comp data - Publish-naisdataupdate
 3. histogram with monthly Dal maso ionsbeha-allseason
 4. GR from json file - iosnbehaviour - summer_grs
+5. Comnparing to find best variable for ranking - ionsbeha-complete
+6. Ranking analysis - dalmaso - posions
