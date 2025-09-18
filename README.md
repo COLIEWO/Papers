@@ -9,8 +9,10 @@ Guide for analysis
 
 Where is anything
 1. To create combined data plots for each day - DalMaso-dailyplot
-2. update NAIS and comp data - Publish-naisdataupdate
+2. update NAIS and comp data and radiation - Publish-naisdataupdate
 3. histogram with monthly Dal maso ionsbeha-allseason
 4. GR from json file - iosnbehaviour - summer_grs
-5. Comnparing to find best variable for ranking - ionsbeha-complete
+5. Comparing to find best variable for ranking - ionsbeha-complete
 6. Ranking analysis - dalmaso - posions
+7. Update BLH data - publish - bl
+8. 
